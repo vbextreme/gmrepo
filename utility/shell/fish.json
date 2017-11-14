@@ -3,7 +3,7 @@
 	"name":"fish-shell",
 	"tag":"",
 	"branch":"master",
-	"dependencies":{
+	"depends":{
 		"fedora":["ncurses-dev"],
 		"debian":["libncurses5-dev","autoconf*"],
 		"ubuntu":["libncurses5-dev"]
